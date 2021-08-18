@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  
  <h2>Skills:</h2>
  
- <div style="display: flex; justify-content: center;">
+ <div align="center">
   <img  alt="Rapha-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img  alt="Rapha-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img  alt="Rapha-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
  
  <h2>Contact:</h2>
  
- <div>
+ <div align="center">
   <a href = "mailto:rafaelloliveira2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank></a>
   <a href="https://www.linkedin.com/in/raphael-oliveiratiroc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
