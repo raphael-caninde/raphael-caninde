@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 	🎓 Formado em Redes de Computadores
-
+- 🎓 Formado em Redes de Computadores
+- 📚 Atualmente sou estudante de Desenvolvimento Web na Trybe
 
  <div style="display: flex">
   <a href="https://github.com/raphael-caninde">
