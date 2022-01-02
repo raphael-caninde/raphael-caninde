@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🎓 Formado em Redes de Computadores
+- 🎓 Graduação em Redes de Computadores
 - 📚 Atualmente sou estudante de Desenvolvimento Web na Trybe
 
  <div style="display: flex">
