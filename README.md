@@ -1,6 +1,7 @@
 Hi there 👨🏾‍💻
 
 <!--
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Snake animation](https://github.com/raphael-caninde/raphael-caninde/blob/output/github-contribution-grid-snake.svg)
 **raphael-caninde/raphael-caninde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -41,6 +42,4 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/raphael-oliveiratiroc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white alt="Linkedin"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>  
-   
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Snake animation](https://github.com/raphael-caninde/raphael-caninde/blob/output/github-contribution-grid-snake.svg)   
  
