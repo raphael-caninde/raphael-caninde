@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img  alt="Rapha-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;&nbsp;&nbsp;
   <img  alt="Rapha-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;&nbsp;
   <img  alt="Rapha-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;&nbsp;&nbsp;
-  <img  alt="Rapha-MYSQL" height="60" width="60" src="https://raw.githubusercontent.com/raphael-caninde/devicon/master/icons/mysql/mysql-original-wordmark.svg">&nbsp;&nbsp;&nbsp; 
+  <img  alt="Rapha-MYSQL" height="60" width="60" src="https://raw.githubusercontent.com/devicon/master/icons/mysql/mysql-original-wordmark.svg">&nbsp;&nbsp;&nbsp; 
  </div>
 
  <h2>Contact:</h2>
