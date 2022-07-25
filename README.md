@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <img  alt="Rapha-MYSQL" height="40" width="60" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
   <img  alt="Rapha-DOCKER" height="40" width="60" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
   <img  alt="Rapha-TS" height="40" width="60" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">&nbsp;&nbsp;&nbsp;
-  <img  alt="Rapha-node" height="40" width="80" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
+  <img  alt="Rapha-node" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
  </div>
 
  <h2>Contact:</h2>
