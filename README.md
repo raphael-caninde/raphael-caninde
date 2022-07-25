@@ -29,12 +29,13 @@ Here are some ideas to get you started:
  <div align="center">
   <img  alt="Rapha-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;&nbsp;
   <img  alt="Rapha-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;&nbsp;&nbsp;
+  <img  alt="Rapha-Redux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">&nbsp;&nbsp;&nbsp;
   <img  alt="Rapha-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;&nbsp;
   <img  alt="Rapha-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;&nbsp;&nbsp;
   <img  alt="Rapha-MYSQL" height="40" width="60" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
   <img  alt="Rapha-DOCKER" height="40" width="60" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
   <img  alt="Rapha-TS" height="40" width="60" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">&nbsp;&nbsp;&nbsp;
-  <img  alt="Rapha-node" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
+  <img  alt="Rapha-node" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">&nbsp;&nbsp;&nbsp;
  </div>
 
  <h2>Contact:</h2>
