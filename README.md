@@ -1,5 +1,3 @@
-Hi there 👨🏾‍💻
-
 <!--
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Snake animation](https://github.com/raphael-caninde/raphael-caninde/blob/output/github-contribution-grid-snake.svg)
 **raphael-caninde/raphael-caninde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align='center'>
+  <img src='https://readme-typing-svg.herokuapp.com?color=%2322D2F7&size=24&center=true&lines=Hi+there!!+%F0%9F%91%8B;Welcome+to+my+GitHub!'/>
+</p>
+
 - 🎓 Graduação em Redes de Computadores
 - 📚 Atualmente sou estudante de Desenvolvimento Web na Trybe
 
