@@ -18,9 +18,6 @@ Here are some ideas to get you started:
   <img src='https://readme-typing-svg.herokuapp.com?color=%2322D2F7&size=24&center=true&lines=Hi+there!!+%F0%9F%91%8B;Welcome+to+my+GitHub!'/>
 </p>
 
-- 🎓 Graduação em Redes de Computadores
-- 📚 Atualmente sou estudante de Desenvolvimento Web na Trybe
-
  <div style="display: flex">
   <a href="https://github.com/raphael-caninde">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=raphael-caninde&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;
