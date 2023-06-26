@@ -1,6 +1,6 @@
 # Hello! 👋🏽
 
-contact me on my e-mail: rafaelloliveira2@gmail.com<br>
+📨 contact me on my e-mail: rafaelloliveira2@gmail.com<br>
 
 ## 🌐 Contacts:
 
@@ -20,9 +20,9 @@ contact me on my e-mail: rafaelloliveira2@gmail.com<br>
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![]()
-![]()
-![]()
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=raphael-caninde&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-caninde&layout=compact&langs_count=7&theme=algolia)
+<div style="display: flex">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphael-caninde&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-caninde&layout=compact&langs_count=7&theme=algolia"/>
+</div>
