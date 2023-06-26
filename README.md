@@ -1,6 +1,6 @@
 # Hello! 👋🏽
 
-📨 contact me on my e-mail: rafaelloliveira2@gmail.com<br>
+📨 contact me on my e-mail / entre em contato pelo meu e-mail: rafaelloliveira2@gmail.com<br>
 
 </br>
 
