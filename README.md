@@ -2,12 +2,15 @@
 
 📨 contact me on my e-mail: rafaelloliveira2@gmail.com<br>
 
+</br>
+
 ## 🌐 Contacts:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/raphaelcaninde/)&nbsp;
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelloliveira2@gmail.com)
 
+</br>
 
 ## 💻 Stacks:
 
@@ -21,6 +24,8 @@
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+</br>
 
 <div style="display: flex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphael-caninde&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;
